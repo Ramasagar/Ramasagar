@@ -14,87 +14,23 @@
 
 ---
 
-<!-- SECTION B: ABOUT ME -->
-## About Me
-I’m **RamaSagar**, an **Associate Technical Director** with **16 years** of experience building scalable, maintainable software. I specialize in **.NET**, **React**, and **Angular**, and I enjoy turning complex problems into clean, reliable solutions.
+# 💫 About Me:
+## 🚀 About Me<br><br>🔭 **I’m currently working on** designing high-performance, zero-trust enterprise applications and scaling cloud-native storage architectures[cite: 1].<br><br>👯 **I’m looking to collaborate on** advanced .NET libraries, microservices patterns, or robust Clean Architecture blueprints[cite: 1].<br><br>🤝 **I’m looking for help with** exploring cutting-edge cloud infrastructure optimizations and distributed system patterns[cite: 1].<br><br>🌱 **I’m currently learning** the deep integration of AI Agents within modern corporate software ecosystems[cite: 1].<br><br>💬 **Ask me about** C#, ASP.NET Core, EF Core, Dependency Injection, MongoDB latency optimization, or strategy for crushing 80%+ SonarQube code coverage goals[cite: 1].<br><br>⚡ **Fun fact** I approach debugging complex production APIs and tracking down the absolute best authentic Chicken Dum Biryani in Hyderabad with the exact same level of architectural precision[cite: 1]!<br><br>---<br><br>### 🛠️ Tech Stack & Tools<br><br>💻 **Backend:** `.NET` | `C#` | `ASP.NET Core` | `EF Core` | `Dependency Injection`[cite: 1]  <br>🗄️ **Databases & Cloud:** `MongoDB` | `Azure Blob Storage`[cite: 1]  <br>🛡️ **Quality & Workflows:** `SonarQube` | `GitHub Actions` | `Clean Architecture`[cite: 1]
 
-I create technical content on **YouTube**, **Medium**, and **Instagram** to share practical tutorials and real‑world engineering patterns.
 
-**Fun facts**
-- ⚡ I enjoy modernizing legacy systems into testable, maintainable architectures.  
-- 🎥 I produce short, practical videos and walkthroughs for developers.  
-- ☕ I run thorough code reviews and believe good coffee helps.  
-- 🎮 I tinker with small game projects and UI experiments in spare time.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ramsagar) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramasagar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramasagar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@RamaSagar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sagarpulidindi@gmail.com) 
 
----
-
-<!-- SECTION C: BADGES / TECH STACK -->
-## Tech Stack
-
-**Frontend**  
-[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org) [![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.io)
-
-**Backend**  
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com) [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/dotnet/csharp)
-
-**Tools**  
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com) [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jasmine](https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Ramasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=Ramasagar&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramasagar&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Ramasagar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- SECTION D: SOCIAL MEDIA LINKS -->
-## Socials
-[![YouTube](https://img.shields.io/badge/YouTube-%5BYOUR%20YOUTUBE%20URL%5D-red?style=for-the-badge&logo=youtube&logoColor=white)]([YOUR YOUTUBE URL])  
-[![Medium](https://img.shields.io/badge/Medium-%5BYOUR%20MEDIUM%20URL%5D-black?style=for-the-badge&logo=medium&logoColor=white)]([YOUR MEDIUM URL])  
-[![Instagram](https://img.shields.io/badge/Instagram-%5BYOUR%20INSTAGRAM%20URL%5D-purple?style=for-the-badge&logo=instagram&logoColor=white)]([YOUR INSTAGRAM URL])  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%5BYOUR%20LINKEDIN%20URL%5D-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR LINKEDIN URL])  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%5BYOUR%20WEBSITE%20URL%5D-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=white)]([YOUR WEBSITE URL])
-
-*(Replace bracketed URLs and counts with your actual links and numbers.)*
-
----
-
-<!-- SECTION E: GITHUB STATS -->
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramasagar&show_icons=true&theme=tokyonight&count_private=true" alt="RamaSagar GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramasagar&theme=tokyonight" alt="RamaSagar GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramasagar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-<!-- SECTION F: TROPHIES -->
-## Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramasagar&theme=onedark&no-frame=true&column=7" alt="Trophies" />
-</p>
-
----
-
-<!-- SECTION G: VISITOR COUNTER (again for emphasis) -->
-[![Profile views](https://komarev.com/ghpvc/?username=Ramasagar&color=brightgreen)](https://github.com/Ramasagar)
-
----
-
-<!-- SECTION H: FOOTER / CONNECT -->
-## Let's Connect
-- **YouTube:** [YOUR YOUTUBE URL]  
-- **Medium:** [YOUR MEDIUM URL]  
-- **Instagram:** [YOUR INSTAGRAM URL]  
-- **LinkedIn:** [YOUR LINKEDIN URL]  
-- **Portfolio:** [YOUR WEBSITE URL]
-
-**Professional closing line**  
-If you’re building something interesting or need help scaling systems, I’m open to collaboration, mentoring, and technical talks — let’s connect.
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 *Made with ❤️ by RamaSagar*
